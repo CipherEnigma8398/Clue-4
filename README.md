@@ -8,6 +8,6 @@ Use this key to decipher the message with the Vigenère cipher. The decrypted me
 
 Decode the final enigma and claim your triumph.
 
-Message : 1l zvs9 bo fl...
+Message : 1l zvq9 do fl...
 
 Your quest continues on a domain where our event's spirit thrives. Incorporate the secret number into the URL of our celebration’s heart to unlock the next revelation.
